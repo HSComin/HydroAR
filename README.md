@@ -1,24 +1,45 @@
-# HydroAR
+<p align="center">
+  <img src="Assets/Logos/Logo%20HydroAR.png" alt="Logo HydroAR" width="180" style="margin: 0 50px;"/>
+</p>
 
-HydroAR é um aplicativo educativo de **Realidade Aumentada (RA)** voltado para o ensino de hidrografia, permitindo a exploração interativa de modelos 3D de rios brasileiros e a simulação de enchentes. O projeto tem como objetivo oferecer uma experiência imersiva que contribua para o aprendizado de fenômenos naturais e a conscientização sobre a preservação dos rios.
+<h1 align="center">🌊 HydroAR</h1>
 
-## Funcionalidades
+<p align="center">
+  <b>Aplicativo educativo em Realidade Aumentada para o ensino de hidrografia</b><br/>
+  <i>Desenvolvido como projeto acadêmico no Instituto Federal do Rio Grande do Sul (IFRS) – Campus Ibirubá</i>
+</p>
 
-- **Modelos 3D interativos de rios brasileiros**: Rio Amazonas, Rio Paraná e Rio Jacuí.  
-- **Exploração em RA**: Aproximação, afastamento e visualização dos modelos em diferentes ângulos.  
-- **Simulação de enchentes**: Visualização animada da elevação da água.  
-- **Experiência contextualizada**: Relaciona conteúdos de hidrografia à realidade dos estudantes.  
-- **Acessibilidade**: Interface simples e intuitiva, pensada para uso educacional.  
+---
 
-## Tecnologias utilizadas
+### 🧭 Sobre o projeto
 
-- **Unity** (versão 2022 ou superior)  
+O **HydroAR** é um aplicativo educativo que utiliza **Realidade Aumentada (RA)** para o ensino de conteúdos relacionados à hidrografia.  
+Com ele, estudantes podem visualizar **modelos 3D de rios brasileiros**, explorar seus detalhes e compreender de forma prática fenômenos naturais, como as **enchentes**.
+
+Durante a utilização, o aplicativo oferece:
+
+- 🌍 **Modelos 3D interativos** dos rios Amazonas, Paraná e Jacuí  
+- 📱 **Exploração em RA**, permitindo girar, aproximar e afastar os modelos  
+- 💧 **Simulação de enchentes**  
+- 🎓 **Acessibilidade e interface intuitiva**, pensadas para o ambiente educacional  
+
+---
+
+### 🧩 Tecnologias utilizadas
+
+- **Unity** 
 - **AR Foundation**  
 - **C#**  
-- **UI Toolkit**  
 
-## Instalação
+---
 
-1. Clone o repositório:  
-```bash
-git clone https://github.com/seu-usuario/HydroAR.git
+### 🚀 Instalação
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/HydroAR.git
+
+<p align="center">
+  <img src="Assets/Logos/Logo%20CC.png" alt="Logo Ciência da Computação" width="130" style="margin-right: 50px;"/>
+  <img src="Assets/Logos/Logo%20IFRS.png" alt="Logo IFRS" width="130" style="margin-left: 50px;"/>
+</p>
