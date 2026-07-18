@@ -433,6 +433,8 @@ public class ARTemplateMenuManager : MonoBehaviour, IInstanciationController
         if (touch.phase != TouchPhase.Began) return;
         if (EventSystem.current != null && EventSystem.current.IsPointerOverGameObject(touch.fingerId)) return;
 
+        if (TouchouNoModelo(touch)) return;
+
         if (m_RaycastManager.Raycast(touch.position, hitsReutilizavel, TrackableType.Planes))
         {
             Pose pose = hitsReutilizavel[0].pose;
@@ -457,6 +459,8 @@ public class ARTemplateMenuManager : MonoBehaviour, IInstanciationController
         if (touch.phase != TouchPhase.Began) return;
         if (EventSystem.current != null && EventSystem.current.IsPointerOverGameObject(touch.fingerId)) return;
 
+        if (TouchouNoModelo(touch)) return;
+
         ModeloEnchente modeloParaInstanciar = modeloFixadoParaAR ?? modeloSelecionado;
         if (modeloParaInstanciar == null || modeloParaInstanciar.prefab == null) return;
 
@@ -480,6 +484,19 @@ public class ARTemplateMenuManager : MonoBehaviour, IInstanciationController
 
             OnObjectSpawned(novoObjeto);
         }
+    }
+
+    private bool TouchouNoModelo(Touch touch)
+    {
+        if (objetoInstanciadoAtual == null) return false;
+
+        Ray ray = Camera.main.ScreenPointToRay(touch.position);
+        if (Physics.Raycast(ray, out RaycastHit hit))
+        {
+            return hit.transform.IsChildOf(objetoInstanciadoAtual.transform)
+                   || hit.transform == objetoInstanciadoAtual.transform;
+        }
+        return false;
     }
 
     private void ProcessarEnchenteSubindo()

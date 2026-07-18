@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23972ec854a60e84796df2f7cf7fe60c, type: 3}
+  m_Name: HydroARTheme_Main
+  m_EditorClassIdentifier: Assembly-CSharp::HydroARTheme
+  primary900: {r: 0.043137256, g: 0.2901961, b: 0.08627451, a: 1}
+  primary700: {r: 0.09019608, g: 0.54901963, b: 0.11764706, a: 1}
+  primary500: {r: 0.18431373, g: 0.65882355, b: 0.22745098, a: 1}
+  primary100: {r: 0.8745098, g: 0.95686275, b: 0.88235295, a: 1}
+  accent700: {r: 0.05490196, g: 0.4862745, b: 0.5254902, a: 1}
+  accent100: {r: 0.8745098, g: 0.9411765, b: 0.9490196, a: 1}
+  surface: {r: 1, g: 1, b: 1, a: 1}
+  background: {r: 0.95686275, g: 0.9647059, b: 0.9607843, a: 1}
+  textPrimary: {r: 0.101960786, g: 0.12156863, b: 0.10980392, a: 1}
+  textSecondary: {r: 0.35686275, g: 0.40392157, b: 0.36862746, a: 1}
+  border: {r: 0.8862745, g: 0.90588236, b: 0.8901961, a: 1}
+  shadowOpacity: 0.12
