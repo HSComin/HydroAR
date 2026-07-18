@@ -1,4 +1,4 @@
-<img width="2000" height="491" alt="Capa Github" src="https://github.com/user-attachments/assets/9e9e5b1d-b193-42fa-a53e-271485a2e2f1" />
+<img width="2000" height="451" alt="Capa Github" src="https://github.com/user-attachments/assets/721262ba-2735-4d94-88ff-88f587d45753" />
 
 <h1 align="center">HydroAR 💧</h1>
 
@@ -26,25 +26,28 @@ Durante a utilização, o HydroAR oferece:
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/24cb4582-1a8c-4bd9-be3a-52c769b985b2" width="400"/>
+      <img src="https://github.com/user-attachments/assets/6492ce76-2769-4c0d-8529-d616eb7d53e7" width="400"/>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/160d0657-ef77-404a-8f78-5f5a301bb9c1" width="400"/>
+      <img src="https://github.com/user-attachments/assets/9a78b5e6-1ef9-41d7-adf3-4acec0ab2854" width="400"/>
     </td>
   </tr>
 
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/3a9e5ab4-d032-4e13-ae3a-8f3a4b9cdc61" width="400"/>
+      <img src="https://github.com/user-attachments/assets/9826b1d8-f91b-4973-89f2-f1e548496160" width="400"/>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/4abb6034-cc46-4f19-b037-1126a831d21e" width="400"/>
+      <img src="https://github.com/user-attachments/assets/6a9a1b8c-0ee0-474d-8408-9bea004f9940" width="400"/>
     </td>
   </tr>
 
   <tr>
-    <td colspan="2" align="center">
-      <img src="https://github.com/user-attachments/assets/bce1ba9d-b4ae-4531-9101-1d6b56f943fc" width="400"/>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/cb7e1dc7-dd61-4874-8d27-1feef8cffec0" width="400"/>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/9b62e67f-63c8-49ca-9903-2f8d5dd70902" width="400"/>
     </td>
   </tr>
 </table>
